@@ -1,12 +1,12 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nueps.com" resolutions="1x" timestamp="1585947189530">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nueps.com" resolutions="1x" timestamp="1585948519696">
   <folder name="css">
     <file name="site_global.css" crc="3978878145"/>
     <file name="master_a-p_g_-maestra.css" crc="4022243079" ref="diseny-gràfic:index:3d:sobre-mi:gent"/>
-    <file name="diseny-gr_fic.css" crc="209254742" ref="diseny-gràfic"/>
+    <file name="diseny-gr_fic.css" crc="488022803" ref="diseny-gràfic"/>
     <file name="index.css" crc="4154836102" ref="index"/>
     <file name="3d.css" crc="164218765" ref="3d"/>
     <file name="sobre-mi.css" crc="253133387" ref="sobre-mi"/>
-    <file name="gent.css" crc="4150373822" ref="gent"/>
+    <file name="gent.css" crc="4064348650" ref="gent"/>
   </folder>
   <folder name="assets">
     <file name="nada-logo-01.png" crc="159389957" seo="true" mt="1554175739000"/>
@@ -19,10 +19,10 @@
     <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:gent"/>
     <file name="jquery.watch.js" crc="99325471" ref="index:sobre-mi:diseny-gràfic:3d:gent"/>
     <file name="require.js" crc="4157109226" ref="index:sobre-mi:diseny-gràfic:3d:gent"/>
-    <file name="webpro.js" crc="242022427" ref="diseny-gràfic:3d"/>
-    <file name="musewpslideshow.js" crc="457073769" ref="diseny-gràfic:3d"/>
-    <file name="jquery.museoverlay.js" crc="483674903" ref="diseny-gràfic:3d"/>
-    <file name="touchswipe.js" crc="4066113679" ref="diseny-gràfic:3d"/>
+    <file name="webpro.js" crc="242022427" ref="diseny-gràfic:3d:gent"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="diseny-gràfic:3d:gent"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="diseny-gràfic:3d:gent"/>
+    <file name="touchswipe.js" crc="4066113679" ref="diseny-gràfic:3d:gent"/>
   </folder>
   <folder name="images">
     <file name="lkjhgfdkty.jpg" crc="4159470566" ref="index"/>
@@ -56,7 +56,7 @@
     <file name="pakaging final_mesa de trabajo 1.png" crc="102493316" seo="true" ref="diseny-gràfic">
       <caption webpage="diseny-gràfic" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="diseny-gràfic:3d"/>
+    <file name="blank.gif" crc="4208392903" ref="diseny-gràfic:3d:gent"/>
     <file name="pakaging final-02.png" crc="240489791" seo="true" ref="diseny-gràfic">
       <caption webpage="diseny-gràfic" alt=""/>
     </file>
@@ -81,7 +81,7 @@
     <file name="targeta por e-02.png" crc="4137015718" seo="true" ref="diseny-gràfic">
       <caption webpage="diseny-gràfic" alt=""/>
     </file>
-    <file name="loading.gif" crc="3815509949" ref="diseny-gràfic:3d"/>
+    <file name="loading.gif" crc="3815509949" ref="diseny-gràfic:3d:gent"/>
     <file name="noelia puig sapena - plantilla.jpg" crc="3905703209" seo="true" ref="diseny-gràfic">
       <caption webpage="diseny-gràfic" alt=""/>
     </file>
@@ -178,9 +178,6 @@
     <file name="xxxxxxxx.jpg" crc="525341029" ref="gent">
       <caption webpage="gent" alt=""/>
     </file>
-    <file name="dghghggggg.jpg" crc="3943764920" ref="gent">
-      <caption webpage="gent" alt=""/>
-    </file>
     <file name="captura.jpg" crc="151700047" ref="gent">
       <caption webpage="gent" alt=""/>
     </file>
@@ -193,15 +190,6 @@
     <file name="img_2746.jpg" crc="244938895" ref="gent">
       <caption webpage="gent" alt=""/>
     </file>
-    <file name="img_2764.jpg" crc="4077139945" ref="gent">
-      <caption webpage="gent" alt=""/>
-    </file>
-    <file name="aaaaaaaaaaa.jpg" crc="399530759" ref="gent">
-      <caption webpage="gent" alt=""/>
-    </file>
-    <file name="gggggggggg.jpg" crc="4068123011" ref="gent">
-      <caption webpage="gent" alt=""/>
-    </file>
     <file name="lkjhgfdkty-u8365-fr.jpg" crc="429287967" ref="gent"/>
     <file name="photo_2020-04-02_23-41-43.jpg" crc="23605275" seo="true" ref="gent">
       <caption webpage="gent" alt=""/>
@@ -212,13 +200,7 @@
     <file name="img_2757.jpg" crc="4259102731" seo="true" ref="gent">
       <caption webpage="gent" alt=""/>
     </file>
-    <file name="img_2744.jpg" crc="4008750524" ref="gent">
-      <caption webpage="gent" alt=""/>
-    </file>
     <file name="hjfthjt.jpg" crc="3808452163" ref="gent">
-      <caption webpage="gent" alt=""/>
-    </file>
-    <file name="ghjkhjkjkhty.jpg" crc="69160032" ref="gent">
       <caption webpage="gent" alt=""/>
     </file>
     <file name="jkhgfds.jpg" crc="186295617" ref="gent">
@@ -239,10 +221,37 @@
     <file name="e1323.jpg" crc="3767691650" seo="true" ref="3d">
       <caption webpage="3d" alt=""/>
     </file>
+    <file name="la droga más adictiva de la historia_ noelia puig sapena_página_1.jpg" crc="4233138315" seo="true" ref="gent">
+      <caption webpage="gent" alt=""/>
+    </file>
+    <file name="la droga más adictiva de la historia_ noelia puig sapena_página_2.jpg" crc="4110162902" seo="true" ref="gent">
+      <caption webpage="gent" alt=""/>
+    </file>
+    <file name="la droga más adictiva de la historia_ noelia puig sapena_página_3.jpg" crc="3963746777" seo="true" ref="gent">
+      <caption webpage="gent" alt=""/>
+    </file>
+    <file name="la droga más adictiva de la historia_ noelia puig sapena_página_4.jpg" crc="194030241" seo="true" ref="gent">
+      <caption webpage="gent" alt=""/>
+    </file>
+    <file name="la droga más adictiva de la historia_ noelia puig sapena_página_5.jpg" crc="62166197" seo="true" ref="gent">
+      <caption webpage="gent" alt=""/>
+    </file>
+    <file name="la droga más adictiva de la historia_ noelia puig sapena_página_6.jpg" crc="3844644823" seo="true" ref="gent">
+      <caption webpage="gent" alt=""/>
+    </file>
+    <file name="la droga más adictiva de la historia_ noelia puig sapena_página_7.jpg" crc="7868259" seo="true" ref="gent">
+      <caption webpage="gent" alt=""/>
+    </file>
+    <file name="la droga más adictiva de la historia_ noelia puig sapena_página_8.jpg" crc="4123404824" seo="true" ref="gent">
+      <caption webpage="gent" alt=""/>
+    </file>
+    <file name="la droga más adictiva de la historia_ noelia puig sapena_página_9.jpg" crc="40811963" seo="true" ref="gent">
+      <caption webpage="gent" alt=""/>
+    </file>
   </folder>
   <file name="index.html" crc="306331855" seo="true" mt="1585945980703" redirect="true"/>
   <file name="sobre-mi.html" crc="3852357365" seo="true" mt="1585945825670" redirect="true"/>
-  <file name="diseny-gràfic.html" crc="3930353065" seo="true" mt="1585946397849" redirect="true"/>
+  <file name="diseny-gràfic.html" crc="472750256" seo="true" mt="1585948114026" redirect="true"/>
   <file name="3d.html" crc="39458410" seo="true" mt="1585946887748" redirect="true"/>
-  <file name="gent.html" crc="4167350842" seo="true" mt="1585947179559" redirect="true"/>
+  <file name="gent.html" crc="4081179127" seo="true" mt="1585948477842" redirect="true"/>
 </manifest>
