@@ -1,18 +1,12 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nueps.com" resolutions="1x" timestamp="1585868894163">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nueps.com" resolutions="1x" timestamp="1585872524371">
   <folder name="css">
     <file name="site_global.css" crc="3978878145"/>
-    <file name="master_a-p_g_-maestra.css" crc="3948934637" ref="index:diseny-gràfic:3d:gent:sobre-mi"/>
-    <file name="nomq_preview_master_a-p_g_-maestra.css" crc="232577100" ref="index:diseny-gràfic:3d:gent:sobre-mi"/>
-    <file name="index.css" crc="4112719479" ref="index"/>
-    <file name="nomq_index.css" crc="520368959" ref="index"/>
-    <file name="diseny-gr_fic.css" crc="60132483" ref="diseny-gràfic"/>
-    <file name="nomq_diseny-gr_fic.css" crc="29516229" ref="diseny-gràfic"/>
-    <file name="3d.css" crc="4122593706" ref="3d"/>
-    <file name="nomq_3d.css" crc="3881063585" ref="3d"/>
-    <file name="gent.css" crc="3763393414" ref="gent"/>
-    <file name="nomq_gent.css" crc="3975266210" ref="gent"/>
-    <file name="sobre-mi.css" crc="153010788" ref="sobre-mi"/>
-    <file name="nomq_sobre-mi.css" crc="4118137139" ref="sobre-mi"/>
+    <file name="master_a-p_g_-maestra.css" crc="4131422808" ref="index:diseny-gràfic:3d:gent:sobre-mi"/>
+    <file name="index.css" crc="3894761830" ref="index"/>
+    <file name="diseny-gr_fic.css" crc="274249611" ref="diseny-gràfic"/>
+    <file name="3d.css" crc="4243169872" ref="3d"/>
+    <file name="gent.css" crc="514484034" ref="gent"/>
+    <file name="sobre-mi.css" crc="4148986856" ref="sobre-mi"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:sobre-mi:diseny-gràfic:3d:gent"/>
@@ -21,7 +15,6 @@
     <file name="museconfig.js" crc="4153641093" ref="index:sobre-mi:diseny-gràfic:3d:gent"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:gent"/>
     <file name="jquery.watch.js" crc="99325471" ref="index:sobre-mi:diseny-gràfic:3d:gent"/>
-    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:sobre-mi:diseny-gràfic:3d:gent"/>
     <file name="require.js" crc="4157109226" ref="index:sobre-mi:diseny-gràfic:3d:gent"/>
     <file name="webpro.js" crc="242022427" ref="sobre-mi:diseny-gràfic"/>
     <file name="form_check.php" crc="147359589" ref="sobre-mi"/>
@@ -36,51 +29,35 @@
     <file name="lkjhgfdkty.jpg" crc="4159470566" ref="index"/>
     <file name="instagram (1).png" crc="300355988" seo="true" ref="index:sobre-mi:diseny-gràfic:3d:gent">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="diseny-gràfic" alt=""/>
       <caption webpage="diseny-gràfic" alt=""/>
       <caption webpage="sobre-mi" alt=""/>
-      <caption webpage="sobre-mi" alt=""/>
       <caption webpage="gent" alt=""/>
-      <caption webpage="gent" alt=""/>
-      <caption webpage="3d" alt=""/>
       <caption webpage="3d" alt=""/>
     </file>
     <file name="behance-logo.png" crc="28445032" seo="true" ref="index:sobre-mi:diseny-gràfic:3d:gent">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="diseny-gràfic" alt=""/>
       <caption webpage="diseny-gràfic" alt=""/>
       <caption webpage="sobre-mi" alt=""/>
-      <caption webpage="sobre-mi" alt=""/>
       <caption webpage="gent" alt=""/>
-      <caption webpage="gent" alt=""/>
-      <caption webpage="3d" alt=""/>
       <caption webpage="3d" alt=""/>
     </file>
     <file name="vimeo-logo.png" crc="4093967184" seo="true" ref="index:sobre-mi:diseny-gràfic:3d:gent">
       <caption webpage="index" alt=""/>
+      <caption webpage="diseny-gràfic" alt=""/>
+      <caption webpage="sobre-mi" alt=""/>
+      <caption webpage="gent" alt=""/>
+      <caption webpage="3d" alt=""/>
+    </file>
+    <file name="sin título-1ailarina 2.jpg" crc="3961110991" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="diseny-gràfic" alt=""/>
-      <caption webpage="diseny-gràfic" alt=""/>
-      <caption webpage="sobre-mi" alt=""/>
-      <caption webpage="sobre-mi" alt=""/>
-      <caption webpage="gent" alt=""/>
-      <caption webpage="gent" alt=""/>
-      <caption webpage="3d" alt=""/>
-      <caption webpage="3d" alt=""/>
     </file>
-    <file name="lkjhgfdkty-u14720-4-r-fr.jpg" crc="4150227433" ref="index"/>
-    <file name="blank.gif" crc="4208392903" ref="index:sobre-mi:diseny-gràfic:3d:gent"/>
-    <file name="aaaaaaaaa563x563.jpg" crc="3978677848" seo="true" ref="sobre-mi">
-      <caption webpage="sobre-mi" alt=""/>
-    </file>
-    <file name="aaaaaaaaa168x168.jpg" crc="395377763" seo="true" ref="sobre-mi">
+    <file name="aaaaaaaaa.jpg" crc="3978677848" seo="true" ref="sobre-mi">
       <caption webpage="sobre-mi" alt=""/>
     </file>
     <file name="pakaging final_mesa de trabajo 1.png" crc="102493316" seo="true" ref="diseny-gràfic">
       <caption webpage="diseny-gràfic" alt=""/>
     </file>
+    <file name="blank.gif" crc="4208392903" ref="diseny-gràfic"/>
     <file name="pakaging final-02.png" crc="240489791" seo="true" ref="diseny-gràfic">
       <caption webpage="diseny-gràfic" alt=""/>
     </file>
@@ -107,7 +84,6 @@
     </file>
     <file name="loading.gif" crc="3815509949" ref="diseny-gràfic"/>
     <file name="noelia puig sapena - plantilla.jpg" crc="3905703209" seo="true" ref="diseny-gràfic">
-      <caption webpage="diseny-gràfic" alt=""/>
       <caption webpage="diseny-gràfic" alt=""/>
     </file>
     <file name="noelia puig sapena - aplicación_página_01.jpg" crc="361170287" seo="true" ref="diseny-gràfic">
@@ -173,96 +149,6 @@
     <file name="camel.png" crc="337575869" seo="true" ref="diseny-gràfic">
       <caption webpage="diseny-gràfic" alt=""/>
     </file>
-    <file name="pakaging final_mesa de trabajo 1180x128.png" crc="3799367372" seo="true" ref="diseny-gràfic">
-      <caption webpage="diseny-gràfic" alt=""/>
-    </file>
-    <file name="pakaging final-02180x128.png" crc="143115890" seo="true" ref="diseny-gràfic">
-      <caption webpage="diseny-gràfic" alt=""/>
-    </file>
-    <file name="pakaging final-03180x128.png" crc="399920983" seo="true" ref="diseny-gràfic">
-      <caption webpage="diseny-gràfic" alt=""/>
-    </file>
-    <file name="pakaging final-04180x128.png" crc="114287643" seo="true" ref="diseny-gràfic">
-      <caption webpage="diseny-gràfic" alt=""/>
-    </file>
-    <file name="pakaging final-05180x128.png" crc="4038399799" seo="true" ref="diseny-gràfic">
-      <caption webpage="diseny-gràfic" alt=""/>
-    </file>
-    <file name="pakaging final-06180x128.png" crc="370459755" seo="true" ref="diseny-gràfic">
-      <caption webpage="diseny-gràfic" alt=""/>
-    </file>
-    <file name="icono restaurante-03180x128.png" crc="532557383" seo="true" ref="diseny-gràfic">
-      <caption webpage="diseny-gràfic" alt=""/>
-    </file>
-    <file name="targeta por delante_mesa de trabajo 1180x128.png" crc="4148881514" seo="true" ref="diseny-gràfic">
-      <caption webpage="diseny-gràfic" alt=""/>
-    </file>
-    <file name="targeta por e-02180x128.png" crc="23696585" seo="true" ref="diseny-gràfic">
-      <caption webpage="diseny-gràfic" alt=""/>
-    </file>
-    <file name="noelia puig sapena - aplicación_página_0172x128.jpg" crc="4205873011" seo="true" ref="diseny-gràfic">
-      <caption webpage="diseny-gràfic" alt=""/>
-    </file>
-    <file name="noelia puig sapena - aplicación_página_0272x128.jpg" crc="150387864" seo="true" ref="diseny-gràfic">
-      <caption webpage="diseny-gràfic" alt=""/>
-    </file>
-    <file name="noelia puig sapena - aplicación_página_0360x128.jpg" crc="4290303284" seo="true" ref="diseny-gràfic">
-      <caption webpage="diseny-gràfic" alt=""/>
-    </file>
-    <file name="noelia puig sapena - aplicación_página_0472x128.jpg" crc="4065306055" seo="true" ref="diseny-gràfic">
-      <caption webpage="diseny-gràfic" alt=""/>
-    </file>
-    <file name="noelia puig sapena - aplicación_página_0572x128.jpg" crc="89659617" seo="true" ref="diseny-gràfic">
-      <caption webpage="diseny-gràfic" alt=""/>
-    </file>
-    <file name="noelia puig sapena - aplicación_página_0672x128.jpg" crc="4212744141" seo="true" ref="diseny-gràfic">
-      <caption webpage="diseny-gràfic" alt=""/>
-    </file>
-    <file name="noelia puig sapena - aplicación_página_0772x128.jpg" crc="4034741041" seo="true" ref="diseny-gràfic">
-      <caption webpage="diseny-gràfic" alt=""/>
-    </file>
-    <file name="noelia puig sapena - aplicación_página_0872x128.jpg" crc="39051896" seo="true" ref="diseny-gràfic">
-      <caption webpage="diseny-gràfic" alt=""/>
-    </file>
-    <file name="noelia puig sapena - aplicación_página_1172x128.jpg" crc="3874106102" seo="true" ref="diseny-gràfic">
-      <caption webpage="diseny-gràfic" alt=""/>
-    </file>
-    <file name="noelia puig sapena - aplicación_página_1872x128.jpg" crc="4059843669" seo="true" ref="diseny-gràfic">
-      <caption webpage="diseny-gràfic" alt=""/>
-    </file>
-    <file name="noelia puig sapena - aplicación_página_2272x128.jpg" crc="3962735764" seo="true" ref="diseny-gràfic">
-      <caption webpage="diseny-gràfic" alt=""/>
-    </file>
-    <file name="noelia puig sapena - aplicación_página_3072x128.jpg" crc="3774041092" seo="true" ref="diseny-gràfic">
-      <caption webpage="diseny-gràfic" alt=""/>
-    </file>
-    <file name="noelia puig sapena - aplicación_página_3159x128.jpg" crc="3969397610" seo="true" ref="diseny-gràfic">
-      <caption webpage="diseny-gràfic" alt=""/>
-    </file>
-    <file name="noelia puig sapena - aplicación_página_3271x128.jpg" crc="4131551760" seo="true" ref="diseny-gràfic">
-      <caption webpage="diseny-gràfic" alt=""/>
-    </file>
-    <file name="noelia puig sapena - aplicación_página_3372x128.jpg" crc="114517257" seo="true" ref="diseny-gràfic">
-      <caption webpage="diseny-gràfic" alt=""/>
-    </file>
-    <file name="esta esss-11287x98.png" crc="3924764516" seo="true" ref="diseny-gràfic">
-      <caption webpage="diseny-gràfic" alt=""/>
-    </file>
-    <file name="crtel 8126x178.jpg" crc="439752901" seo="true" ref="diseny-gràfic">
-      <caption webpage="diseny-gràfic" alt=""/>
-    </file>
-    <file name="ssss261x221.jpg" crc="4252193104" seo="true" ref="diseny-gràfic">
-      <caption webpage="diseny-gràfic" alt=""/>
-    </file>
-    <file name="caratula1 final144x144.jpg" crc="3793141337" seo="true" ref="diseny-gràfic">
-      <caption webpage="diseny-gràfic" alt=""/>
-    </file>
-    <file name="contraportada final144x144.jpg" crc="3837480722" seo="true" ref="diseny-gràfic">
-      <caption webpage="diseny-gràfic" alt=""/>
-    </file>
-    <file name="camel287x193.png" crc="3856530998" seo="true" ref="diseny-gràfic">
-      <caption webpage="diseny-gràfic" alt=""/>
-    </file>
     <file name="cartel.jpg" crc="4223402844" seo="true" ref="3d">
       <caption webpage="3d" alt=""/>
     </file>
@@ -276,21 +162,6 @@
       <caption webpage="3d" alt=""/>
     </file>
     <file name="bpr_render 2ssssssssssssssssss-crop-u9246.jpg" crc="361224588" seo="true" ref="3d">
-      <caption webpage="3d" alt=""/>
-    </file>
-    <file name="cartel195x273.jpg" crc="4051057320" seo="true" ref="3d">
-      <caption webpage="3d" alt=""/>
-    </file>
-    <file name="definitivo-png-16256x342.jpg" crc="35314216" seo="true" ref="3d">
-      <caption webpage="3d" alt=""/>
-    </file>
-    <file name="eii287x145.jpg" crc="503425076" seo="true" ref="3d">
-      <caption webpage="3d" alt=""/>
-    </file>
-    <file name="bpr_render 2ssssssssssssssssss-crop-u92462.jpg" crc="86480830" seo="true" ref="3d">
-      <caption webpage="3d" alt=""/>
-    </file>
-    <file name="bpr_render2sssssssssssssssssss-crop-u92482.jpg" crc="130571826" seo="true" ref="3d">
       <caption webpage="3d" alt=""/>
     </file>
     <file name="photo_2020-04-02_23-41-40.jpg" crc="254755542" seo="true" ref="gent">
@@ -363,48 +234,10 @@
     <file name="dfd.jpg" crc="4020255861" ref="gent">
       <caption webpage="gent" alt=""/>
     </file>
-    <file name="photo_2020-04-02_23-41-4094x94.jpg" crc="3877820829" seo="true" ref="gent">
-      <caption webpage="gent" alt=""/>
-    </file>
-    <file name="photo_2020-04-02_23-41-4194x94.jpg" crc="4014146361" seo="true" ref="gent">
-      <caption webpage="gent" alt=""/>
-    </file>
-    <file name="photo_2020-04-02_23-41-4394x94.jpg" crc="93312912" seo="true" ref="gent">
-      <caption webpage="gent" alt=""/>
-    </file>
-    <file name="img_0348-u3895-fr.jpg" crc="258897765" ref="gent"/>
-    <file name="img_0385-u3896-fr.jpg" crc="465374237" ref="gent"/>
-    <file name="img_0746-u3890-fr.jpg" crc="3924433896" ref="gent"/>
-    <file name="img_1296-u3888-fr.jpg" crc="414191018" ref="gent"/>
-    <file name="img_2746-u3889-fr.jpg" crc="380610641" ref="gent"/>
-    <file name="xxxxxxxx-u8364-fr.jpg" crc="4146465510" ref="gent"/>
-    <file name="img_2763-u3892-fr.jpg" crc="314577254" ref="gent"/>
-    <file name="img_2764-u3893-fr.jpg" crc="3953174627" ref="gent"/>
-    <file name="img_2744-u3894-fr.jpg" crc="438884441" ref="gent"/>
-    <file name="dghghggggg-u8361-fr.jpg" crc="4222072821" ref="gent"/>
-    <file name="gggggggggg-u8360-fr.jpg" crc="218845228" ref="gent"/>
-    <file name="ffgfgfd-u8560-fr.jpg" crc="4152146808" ref="gent"/>
-    <file name="´ñlkjfktk-u8363-fr.jpg" crc="4294364241" ref="gent"/>
-    <file name="lkjhgfdkty-u8365-fr2.jpg" crc="4275916404" ref="gent"/>
-    <file name="jkhgfds-u8362-fr.jpg" crc="3856981240" ref="gent"/>
-    <file name="captura-u8559-fr.jpg" crc="3886602339" ref="gent"/>
-    <file name="hjfthjt-u8359-fr.jpg" crc="515308428" ref="gent"/>
-    <file name="aaaaaaaaaaa-u8366-fr.jpg" crc="3790285456" ref="gent"/>
-    <file name="ghjkhjkjkhty-u8545-fr.jpg" crc="405216366" ref="gent"/>
-    <file name="dfd-u8564-fr.jpg" crc="343167615" ref="gent"/>
-    <file name="img_275794x94.jpg" crc="379588578" seo="true" ref="gent">
-      <caption webpage="gent" alt=""/>
-    </file>
-    <file name="e.jpg" crc="4158327219" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="e640x452.jpg" crc="4047187601" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
   </folder>
-  <file name="index.html" crc="244614601" seo="true" mt="1585868815106" redirect="true"/>
-  <file name="sobre-mi.html" crc="438517888" seo="true" mt="1585868579186" redirect="true"/>
-  <file name="diseny-gràfic.html" crc="3893731785" seo="true" mt="1585868797359" redirect="true"/>
-  <file name="3d.html" crc="13605313" seo="true" mt="1585868579186" redirect="true"/>
-  <file name="gent.html" crc="531507066" seo="true" mt="1585868579186" redirect="true"/>
+  <file name="index.html" crc="428990988" seo="true" mt="1585872202710" redirect="true"/>
+  <file name="sobre-mi.html" crc="4271609305" seo="true" mt="1585872236510" redirect="true"/>
+  <file name="diseny-gràfic.html" crc="419328346" seo="true" mt="1585872413793" redirect="true"/>
+  <file name="3d.html" crc="3999852445" seo="true" mt="1585872216381" redirect="true"/>
+  <file name="gent.html" crc="28314850" seo="true" mt="1585872180770" redirect="true"/>
 </manifest>
