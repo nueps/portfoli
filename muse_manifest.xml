@@ -1,12 +1,12 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nueps.com" resolutions="1x" timestamp="1585950406631">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nueps.com" resolutions="1x" timestamp="1585950983410">
   <folder name="css">
     <file name="site_global.css" crc="3978878145"/>
     <file name="master_a-p_g_-maestra.css" crc="4038395065" ref="diseny-gràfic:index:3d:sobre-mi:gent"/>
-    <file name="diseny-gr_fic.css" crc="522707732" ref="diseny-gràfic"/>
-    <file name="index.css" crc="153472780" ref="index"/>
-    <file name="3d.css" crc="330237670" ref="3d"/>
-    <file name="sobre-mi.css" crc="113777319" ref="sobre-mi"/>
-    <file name="gent.css" crc="3960926696" ref="gent"/>
+    <file name="diseny-gr_fic.css" crc="3841807349" ref="diseny-gràfic"/>
+    <file name="index.css" crc="3818087001" ref="index"/>
+    <file name="3d.css" crc="4183733531" ref="3d"/>
+    <file name="sobre-mi.css" crc="253133387" ref="sobre-mi"/>
+    <file name="gent.css" crc="413133750" ref="gent"/>
   </folder>
   <folder name="assets">
     <file name="nada-logo-01.png" crc="159389957" seo="true" mt="1554175739000"/>
@@ -249,9 +249,9 @@
       <caption webpage="gent" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4214492507" seo="true" mt="1585950332700" redirect="true"/>
-  <file name="sobre-mi.html" crc="500018471" seo="true" mt="1585949961073" redirect="true"/>
-  <file name="diseny-gràfic.html" crc="4050374324" seo="true" mt="1585949927988" redirect="true"/>
-  <file name="3d.html" crc="3781884121" seo="true" mt="1585949978457" redirect="true"/>
-  <file name="gent.html" crc="3893216703" seo="true" mt="1585949972366" redirect="true"/>
+  <file name="index.html" crc="56288995" seo="true" mt="1585950899512" redirect="true"/>
+  <file name="sobre-mi.html" crc="4112606155" seo="true" mt="1585950899512" redirect="true"/>
+  <file name="diseny-gràfic.html" crc="298572374" seo="true" mt="1585950899512" redirect="true"/>
+  <file name="3d.html" crc="371674706" seo="true" mt="1585950899512" redirect="true"/>
+  <file name="gent.html" crc="3869135948" seo="true" mt="1585950899512" redirect="true"/>
 </manifest>
