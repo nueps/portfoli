@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nueps.com" resolutions="1x" timestamp="1585948519696">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nueps.com" resolutions="1x" timestamp="1585949413908">
   <folder name="css">
     <file name="site_global.css" crc="3978878145"/>
-    <file name="master_a-p_g_-maestra.css" crc="4022243079" ref="diseny-gràfic:index:3d:sobre-mi:gent"/>
+    <file name="master_a-p_g_-maestra.css" crc="4038395065" ref="diseny-gràfic:index:3d:sobre-mi:gent"/>
     <file name="diseny-gr_fic.css" crc="488022803" ref="diseny-gràfic"/>
-    <file name="index.css" crc="4154836102" ref="index"/>
+    <file name="index.css" crc="3818087001" ref="index"/>
     <file name="3d.css" crc="164218765" ref="3d"/>
     <file name="sobre-mi.css" crc="253133387" ref="sobre-mi"/>
     <file name="gent.css" crc="4064348650" ref="gent"/>
@@ -249,7 +249,7 @@
       <caption webpage="gent" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="306331855" seo="true" mt="1585945980703" redirect="true"/>
+  <file name="index.html" crc="56288995" seo="true" mt="1585949388741" redirect="true"/>
   <file name="sobre-mi.html" crc="3852357365" seo="true" mt="1585945825670" redirect="true"/>
   <file name="diseny-gràfic.html" crc="472750256" seo="true" mt="1585948114026" redirect="true"/>
   <file name="3d.html" crc="39458410" seo="true" mt="1585946887748" redirect="true"/>
