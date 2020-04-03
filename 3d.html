@@ -10,14 +10,14 @@
 document.documentElement.className = document.documentElement.className.replace(/\bnojs\b/g, 'js');
 
 // Check that all required assets are uploaded and up-to-date
-if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.watch.js", "require.js", "3d.css"], "outOfDate":[]};
+if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "webpro.js", "musewpslideshow.js", "jquery.museoverlay.js", "touchswipe.js", "jquery.watch.js", "require.js", "3d.css"], "outOfDate":[]};
 </script>
   
   <title>3D</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=3978878145"/>
-  <link rel="stylesheet" type="text/css" href="css/master_a-p_g_-maestra.css?crc=4131422808"/>
-  <link rel="stylesheet" type="text/css" href="css/3d.css?crc=4243169872" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/master_a-p_g_-maestra.css?crc=4022243079"/>
+  <link rel="stylesheet" type="text/css" href="css/3d.css?crc=164218765" id="pagesheet"/>
     <!--HTML Widget code-->
   
 		<style>
@@ -27,9 +27,9 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
 #mf-menu {
     position: fixed;
     top: 0;
-    left: -250px;
+    left: -300px;
 
-    width: 250px;
+    width: 300px;
     height: 100%;
     padding: 50px 30px;
     -webkit-box-sizing: border-box;
@@ -62,10 +62,10 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
     text-decoration: none;
 
     color: #E72D2D;
-    border-top: 0px solid #FFFF00;
+    border-top: 15px solid #FFFF00;
 }
 #mf-menu ul li:last-child a {
-    border-bottom: 0px solid #FFFF00;
+    border-bottom: 15px solid #FFFF00;
 }
 #mf-menu ul li a:hover {
     letter-spacing: 0px;
@@ -87,7 +87,7 @@ position: absolute;
             transition: all .3s ease-in;
 }
 .open .page-wrap {
-    margin-left: 250px;
+    margin-left: 300px;
 }
 
 /* MENU TOGGLE ICON */
@@ -118,7 +118,7 @@ button:focus {
          -o-transition: all .5s ease;
             transition: all .5s ease;
 
-    background-color: #E72D2D;
+    background-color: #FF2100;
 }
 
 #menu-toggle:before {
@@ -145,10 +145,10 @@ button:focus {
 
 .imgClass{
     object-fit: cover;
-    height: 10px;
+    height: 20px;
     width: 10px;
 }
-.lastItem {border-bottom: 0px solid #FFFF00;}
+.lastItem {border-bottom: 15px solid #FFFF00;}
 
 </style>
 	
@@ -164,7 +164,7 @@ button:focus {
     
  <nav id="mf-menu" role="navigation">
         <div class="brand">
-            <a href="#INICIO"><img class="imgClass" src=" " alt="Logo"/></a>
+            <a href="#INICIO"><img class="imgClass" src="assets/nada-logo-01.png" alt="Logo"/></a>
         </div>            
         <ul>
             <li class="lineClass"><a class="linkClass" href="index.html">PORTFOLI</a></li>
@@ -184,61 +184,93 @@ button:focus {
     <div class="clearfix colelem" id="u14297-4"><!-- content -->
      <p>nueps</p>
     </div>
-    <div class="clearfix colelem" id="pu14690"><!-- group -->
-     <div class="clearfix grpelem" id="u14690"><!-- column -->
-      <div class="size_fixed colelem" id="u1550" data-pintopage="page_fluidx"><!-- custom html -->
+    <div class="clearfix colelem" id="u16991"><!-- column -->
+     <div class="clearfix colelem" id="pslideshowu16322"><!-- group -->
+      <div class="SlideShowWidget clearfix grpelem" id="slideshowu16322"><!-- none box -->
+       <div class="popup_anchor" id="u16323popup">
+        <div class="SlideShowContentPanel clearfix" id="u16323"><!-- stack box -->
+         <div class="SSSlide clip_frame grpelem" id="u16336"><!-- image -->
+          <img class="block ImageInclude" id="u16336_img" data-src="images/e0288.jpg?crc=214773307" src="images/blank.gif?crc=4208392903" alt="" data-width="1723" data-height="969"/>
+         </div>
+         <div class="SSSlide invi clip_frame grpelem" id="u16910"><!-- image -->
+          <img class="block ImageInclude" id="u16910_img" data-src="images/e0495.jpg?crc=4263726282" src="images/blank.gif?crc=4208392903" alt="" data-width="1723" data-height="969"/>
+         </div>
+         <div class="SSSlide invi clip_frame grpelem" id="u16930"><!-- image -->
+          <img class="block ImageInclude" id="u16930_img" data-src="images/e0702.jpg?crc=199169555" src="images/blank.gif?crc=4208392903" alt="" data-width="1723" data-height="969"/>
+         </div>
+         <div class="SSSlide invi clip_frame grpelem" id="u16950"><!-- image -->
+          <img class="block ImageInclude" id="u16950_img" data-src="images/e0909.jpg?crc=4124677099" src="images/blank.gif?crc=4208392903" alt="" data-width="1723" data-height="969"/>
+         </div>
+         <div class="SSSlide invi clip_frame grpelem" id="u16970"><!-- image -->
+          <img class="block ImageInclude" id="u16970_img" data-src="images/e1323.jpg?crc=3767691650" src="images/blank.gif?crc=4208392903" alt="" data-width="1723" data-height="969"/>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="clearfix grpelem" id="u16867-5"><!-- content -->
+       <p>Videoclip <span id="u16867-2">Clones</span></p>
+      </div>
+     </div>
+     <div class="clearfix colelem" id="pu1550"><!-- group -->
+      <div class="size_fixed grpelem" id="u1550" data-pintopage="page_fluidx"><!-- custom html -->
        
     <iframe class="actAsDiv" style="width:100%;height:100%;" src="//player.vimeo.com/video/327860668?title=0&amp;byline=0&amp;portrait=0&amp;color=FFFFFF&amp;autoplay=0&amp;loop=1&amp;wmode=transparent" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 
       </div>
-      <div class="clip_frame colelem" id="u14169"><!-- image -->
+      <div class="clearfix grpelem" id="u14215-4"><!-- content -->
+       <p>Composició</p>
+      </div>
+     </div>
+     <div class="clearfix colelem" id="pu14169"><!-- group -->
+      <div class="clip_frame grpelem" id="u14169"><!-- image -->
        <img class="block" id="u14169_img" src="images/cartel.jpg?crc=4223402844" alt="" width="1168" height="1635"/>
       </div>
-      <div class="clip_frame colelem" id="u9025"><!-- image -->
+      <div class="clearfix grpelem" id="u14209-5"><!-- content -->
+       <p>Cartell per al concurs <span id="u14209-2">Terras Gauda</span></p>
+      </div>
+     </div>
+     <div class="clearfix colelem" id="pu9025"><!-- group -->
+      <div class="clip_frame grpelem" id="u9025"><!-- image -->
        <img class="block" id="u9025_img" src="images/definitivo-png-16.jpg?crc=3969915301" alt="" width="1233" height="1644"/>
       </div>
-      <div class="clip_frame colelem" id="u14625"><!-- image -->
+      <div class="clearfix grpelem" id="u14203-4"><!-- content -->
+       <p>McPepinillo's</p>
+      </div>
+     </div>
+     <div class="clearfix colelem" id="pu14625"><!-- group -->
+      <div class="clip_frame grpelem" id="u14625"><!-- image -->
        <img class="block" id="u14625_img" src="images/eii.jpg?crc=535535634" alt="" width="1720" height="868"/>
       </div>
-      <div class="clearfix colelem" id="pu9248"><!-- group -->
-       <div class="clip_frame grpelem" id="u9248"><!-- image -->
-        <img class="block" id="u9248_img" src="images/bpr_render2sssssssssssssssssss-crop-u9248.jpg?crc=3999331207" alt="" width="860" height="763"/>
-       </div>
-       <div class="clip_frame grpelem" id="u9246"><!-- image -->
-        <img class="block" id="u9246_img" src="images/bpr_render%202ssssssssssssssssss-crop-u9246.jpg?crc=361224588" alt="" width="860" height="763"/>
-       </div>
+      <div class="clearfix grpelem" id="u14637-4"><!-- content -->
+       <p>Plantes sobre neu</p>
       </div>
-      <div class="size_fixed colelem" id="u9307" data-pintopage="page_fluidx"><!-- custom html -->
-       
+     </div>
+     <div class="clearfix colelem" id="pu9246"><!-- group -->
+      <div class="clip_frame grpelem" id="u9246"><!-- image -->
+       <img class="block" id="u9246_img" src="images/bpr_render%202ssssssssssssssssss-crop-u9246.jpg?crc=361224588" alt="" width="860" height="763"/>
+      </div>
+      <div class="clip_frame grpelem" id="u9248"><!-- image -->
+       <img class="block" id="u9248_img" src="images/bpr_render2sssssssssssssssssss-crop-u9248.jpg?crc=3999331207" alt="" width="860" height="763"/>
+      </div>
+      <div class="clearfix grpelem" id="u9245-4"><!-- content -->
+       <p>Modelaje d'una mà</p>
+      </div>
+     </div>
+     <div class="size_fixed colelem" id="u9307" data-pintopage="page_fluidx"><!-- custom html -->
+      
     <iframe class="actAsDiv" style="width:100%;height:100%;" src="//player.vimeo.com/video/403334658?title=0&amp;byline=0&amp;portrait=0&amp;color=FFFFFF&amp;autoplay=0&amp;loop=1&amp;wmode=transparent" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 
-      </div>
-     </div>
-     <div class="clearfix grpelem" id="u9245-4"><!-- content -->
-      <p>Modelaje d'una mà amb Zbrush</p>
-     </div>
-     <div class="clearfix grpelem" id="u14203-4"><!-- content -->
-      <p>Ilustració amb Cinema 4D</p>
-     </div>
-     <div class="clearfix grpelem" id="u14209-4"><!-- content -->
-      <p>Cartell per al concurs &quot;Terras Gauda&quot; amb Cinema 4D</p>
-     </div>
-     <div class="clearfix grpelem" id="u14637-4"><!-- content -->
-      <p>Ilustració amb Cinema 4D</p>
-     </div>
-     <div class="clearfix grpelem" id="u14215-4"><!-- content -->
-      <p>Composició amb Cinema 4D</p>
      </div>
     </div>
    </div>
-   <div class="verticalspacer" data-offset-top="7632" data-content-above-spacer="7631" data-content-below-spacer="81"></div>
+   <div class="verticalspacer" data-offset-top="8705" data-content-above-spacer="8705" data-content-below-spacer="81"></div>
    <a class="nonblock nontext clip_frame grpelem" id="u137" href="https://www.instagram.com/kdiuskfas/?hl=es" target="_blank"><!-- image --><img class="block" id="u137_img" src="images/instagram%20(1).png?crc=300355988" alt="" title="https://www.instagram.com/basurerodenueps/?hl=es" width="42" height="42"/></a>
    <a class="nonblock nontext clip_frame grpelem" id="u141" href="https://www.behance.net/noeliaps_998b2"><!-- image --><img class="block" id="u141_img" src="images/behance-logo.png?crc=28445032" alt="" width="42" height="42"/></a>
    <a class="nonblock nontext clip_frame grpelem" id="u139" href="https://vimeo.com/user36190601"><!-- image --><img class="block" id="u139_img" src="images/vimeo-logo.png?crc=4093967184" alt="" width="42" height="42"/></a>
   </div>
   <!-- JS includes -->
   <script type="text/javascript">
-   if (document.location.protocol != 'https:') document.write('\x3Cscript src="http://musecdn2.businesscatalyst.com/scripts/4.0/jquery-1.8.3.min.js" type="text/javascript">\x3C/script>');
+   if (document.location.protocol != 'https:') document.write('\x3Cscript src="http://musecdn.businesscatalyst.com/scripts/4.0/jquery-1.8.3.min.js" type="text/javascript">\x3C/script>');
 </script>
   <script type="text/javascript">
    window.jQuery || document.write('\x3Cscript src="scripts/jquery-1.8.3.min.js?crc=209076791" type="text/javascript">\x3C/script>');
@@ -254,11 +286,12 @@ var suppressMissingFileError = false
 l[1]:null,l=l&&l[2]?l[2]:null;switch(l.toLowerCase()){case "css":k=k.replace(/\W/gi,"_").replace(/^([^a-z])/gi,"_$1");f.className+=" "+k;k=a(c(f,"color"));l=a(c(f,"backgroundColor"));k!=0||l!=0?(Muse.assets.required.splice(h,1),"undefined"!=typeof b[i]&&(k!=b[i]>>>24||l!=(b[i]&16777215))&&Muse.assets.outOfDate.push(i)):h++;f.className="version";break;case "js":h++;break;default:throw Error("Unsupported file type: "+l);}}d?d().jquery!="1.8.3"&&Muse.assets.outOfDate.push("jquery-1.8.3.min.js"):Muse.assets.required.push("jquery-1.8.3.min.js");
 f.parentNode.removeChild(f);if(Muse.assets.outOfDate.length||Muse.assets.required.length)f="Puede que determinados archivos falten en el servidor o sean incorrectos. Limpie la cache del navegador e inténtelo de nuevo. Si el problema persiste, póngase en contacto con el administrador del sitio web.",g&&Muse.assets.outOfDate.length&&(f+="\nOut of date: "+Muse.assets.outOfDate.join(",")),g&&Muse.assets.required.length&&(f+="\nMissing: "+Muse.assets.required.join(",")),suppressMissingFileError?(f+="\nUse SuppressMissingFileError key in AppPrefs.xml to show missing file error pop up.",console.log(f)):alert(f)};location&&location.search&&location.search.match&&location.search.match(/muse_debug/gi)?
 setTimeout(function(){g(!0)},5E3):g()}};
-var muse_init=function(){require.config({baseUrl:""});require(["jquery","museutils","whatinput","jquery.watch"],function(d){var $ = d;$(document).ready(function(){try{
+var muse_init=function(){require.config({baseUrl:""});require(["jquery","museutils","whatinput","webpro","musewpslideshow","jquery.museoverlay","touchswipe","jquery.watch"],function(d){var $ = d;$(document).ready(function(){try{
 window.Muse.assets.check($);/* body */
 Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
 Muse.Utils.prepHyperlinks(true);/* body */
 Muse.Utils.makeButtonsVisibleAfterSettingMinWidth();/* body */
+Muse.Utils.initWidget('#slideshowu16322', ['#bp_infinity'], function(elem) { var widget = new WebPro.Widget.ContentSlideShow(elem, {autoPlay:true,displayInterval:2000,slideLinkStopsSlideShow:false,transitionStyle:'fading',lightboxEnabled_runtime:false,shuffle:false,transitionDuration:500,enableSwipe:true,elastic:'off',resumeAutoplay:true,resumeAutoplayInterval:2000,playOnce:false,autoActivate_runtime:false,isResponsive:false}); $(elem).data('widget', widget); return widget; });/* #slideshowu16322 */
 Muse.Utils.fullPage('#page');/* 100% height page */
 Muse.Utils.showWidgetsWhenReady();/* body */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
@@ -266,7 +299,7 @@ Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
 
 </script>
   <!-- RequireJS script -->
-  <script src="scripts/require.js?crc=4157109226" type="text/javascript" async data-main="scripts/museconfig.js?crc=4153641093" onload="if (requirejs) requirejs.onError = function(requireType, requireModule) { if (requireType && requireType.toString && requireType.toString().indexOf && 0 <= requireType.toString().indexOf('#scripterror')) window.Muse.assets.check(); }" onerror="window.Muse.assets.check();"></script>
+  <script src="scripts/require.js?crc=4157109226" type="text/javascript" async data-main="scripts/museconfig.js?crc=380897831" onload="if (requirejs) requirejs.onError = function(requireType, requireModule) { if (requireType && requireType.toString && requireType.toString().indexOf && 0 <= requireType.toString().indexOf('#scripterror')) window.Muse.assets.check(); }" onerror="window.Muse.assets.check();"></script>
   
   <!--HTML Widget code-->
   

@@ -16,24 +16,6 @@
     </image:image>
   </url>
   <url>
-    <loc>http://nueps.com/sobre-mi.html</loc>
-    <lastmod>2020-04-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://nueps.com/images/instagram%20(1).png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nueps.com/images/behance-logo.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nueps.com/images/vimeo-logo.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nueps.com/images/aaaaaaaaa.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
     <loc>http://nueps.com/diseny-gr%C3%A0fic.html</loc>
     <lastmod>2020-04-03</lastmod>
     <changefreq>weekly</changefreq>
@@ -132,13 +114,31 @@
       <image:loc>http://nueps.com/images/ssss.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nueps.com/images/caratula1%20final.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://nueps.com/images/contraportada%20final.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://nueps.com/images/caratula1%20final.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://nueps.com/images/camel.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://nueps.com/sobre-mi.html</loc>
+    <lastmod>2020-04-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://nueps.com/images/instagram%20(1).png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nueps.com/images/behance-logo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nueps.com/images/vimeo-logo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nueps.com/images/aaaaaaaaa.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -165,10 +165,25 @@
       <image:loc>http://nueps.com/images/eii.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://nueps.com/images/bpr_render%202ssssssssssssssssss-crop-u9246.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://nueps.com/images/bpr_render2sssssssssssssssssss-crop-u9248.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nueps.com/images/bpr_render%202ssssssssssssssssss-crop-u9246.jpg</image:loc>
+      <image:loc>http://nueps.com/images/e0288.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nueps.com/images/e0495.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nueps.com/images/e0702.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nueps.com/images/e0909.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nueps.com/images/e1323.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -197,5 +212,11 @@
     <image:image>
       <image:loc>http://nueps.com/images/img_2757.jpg</image:loc>
     </image:image>
+  </url>
+  <url>
+    <loc>http://nueps.com/assets/nada-logo-01.png</loc>
+    <lastmod>2019-04-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>
