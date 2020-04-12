@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nueps.com" resolutions="1x" timestamp="1586701249955">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nueps.com" resolutions="1x" timestamp="1586701657441">
   <folder name="css">
     <file name="site_global.css" crc="3978878145"/>
     <file name="master_a-p_g_-maestra.css" crc="3995908443" ref="gent:3d:index:disseny-gràfic:soc-nueps"/>
@@ -6,7 +6,7 @@
     <file name="3d.css" crc="4011442850" ref="3d"/>
     <file name="index.css" crc="3810182230" ref="index"/>
     <file name="disseny-gr_fic.css" crc="4286539277" ref="disseny-gràfic"/>
-    <file name="soc-nueps.css" crc="3924473666" ref="soc-nueps"/>
+    <file name="soc-nueps.css" crc="137467916" ref="soc-nueps"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:3d:gent:disseny-gràfic:soc-nueps"/>
@@ -32,30 +32,30 @@
     <file name="loading.gif" crc="3815509949" ref="3d:gent:disseny-gràfic"/>
     <file name="lkjhgfdkty.jpg" crc="4159470566" ref="index"/>
     <file name="instagram (1).png" crc="286663639" seo="true" ref="index:3d:gent:disseny-gràfic:soc-nueps">
-      <caption webpage="gent" alt=""/>
+      <caption webpage="portfoli" alt=""/>
       <caption webpage="diseny-gràfic" alt=""/>
       <caption webpage="disseny-gràfic" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="3d" alt=""/>
-      <caption webpage="portfoli" alt=""/>
+      <caption webpage="gent" alt=""/>
       <caption webpage="soc-nueps" alt=""/>
     </file>
     <file name="behance-logo.png" crc="4068296395" seo="true" ref="index:3d:gent:disseny-gràfic:soc-nueps">
-      <caption webpage="gent" alt=""/>
+      <caption webpage="portfoli" alt=""/>
       <caption webpage="diseny-gràfic" alt=""/>
       <caption webpage="disseny-gràfic" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="3d" alt=""/>
-      <caption webpage="portfoli" alt=""/>
+      <caption webpage="gent" alt=""/>
       <caption webpage="soc-nueps" alt=""/>
     </file>
     <file name="vimeo-logo.png" crc="4164263316" seo="true" ref="index:3d:gent:disseny-gràfic:soc-nueps">
-      <caption webpage="gent" alt=""/>
+      <caption webpage="portfoli" alt=""/>
       <caption webpage="diseny-gràfic" alt=""/>
       <caption webpage="disseny-gràfic" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="3d" alt=""/>
-      <caption webpage="portfoli" alt=""/>
+      <caption webpage="gent" alt=""/>
       <caption webpage="soc-nueps" alt=""/>
     </file>
     <file name="pakaging final_mesa de trabajo 1.png" crc="4007402539" seo="true" ref="disseny-gràfic">
@@ -290,5 +290,5 @@
   <file name="3d.html" crc="3857325261" seo="true" mt="1586700528365" redirect="true"/>
   <file name="gent.html" crc="4127783881" seo="true" mt="1586700528365" redirect="true"/>
   <file name="disseny-gràfic.html" crc="22764896" seo="true" mt="1586700528365" redirect="true"/>
-  <file name="soc-nueps.html" crc="427230466" seo="true" mt="1586701211222" redirect="true"/>
+  <file name="soc-nueps.html" crc="316290731" seo="true" mt="1586701649813" redirect="true"/>
 </manifest>
