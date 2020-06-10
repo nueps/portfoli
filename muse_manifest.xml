@@ -1,11 +1,11 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nueps.com" resolutions="1x" timestamp="1591796350025">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nueps.com" resolutions="1x" timestamp="1591797962151">
   <folder name="css">
     <file name="site_global.css" crc="3978878145"/>
     <file name="master_a-p_g_-maestra.css" crc="374083346" ref="gent:index:work:soy-nueps"/>
-    <file name="gent.css" crc="4292512158" ref="gent"/>
+    <file name="gent.css" crc="3903663684" ref="gent"/>
     <file name="index.css" crc="122559639" ref="index"/>
-    <file name="work.css" crc="3987905314" ref="work"/>
-    <file name="soy-nueps.css" crc="379962756" ref="soy-nueps"/>
+    <file name="work.css" crc="507171971" ref="work"/>
+    <file name="soy-nueps.css" crc="379225935" ref="soy-nueps"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:work:gent:soy-nueps"/>
@@ -27,16 +27,16 @@
     <file name="instagram (1).png" crc="286663639" seo="true" ref="index:work:gent:soy-nueps">
       <caption webpage="index" alt=""/>
       <caption webpage="soc-nueps" alt=""/>
+      <caption webpage="soy-nueps" alt=""/>
       <caption webpage="work" alt=""/>
       <caption webpage="gent" alt=""/>
-      <caption webpage="soy-nueps" alt=""/>
     </file>
     <file name="vimeo-logo.png" crc="4164263316" seo="true" ref="index:work:gent:soy-nueps">
       <caption webpage="index" alt=""/>
       <caption webpage="soc-nueps" alt=""/>
+      <caption webpage="soy-nueps" alt=""/>
       <caption webpage="work" alt=""/>
       <caption webpage="gent" alt=""/>
-      <caption webpage="soy-nueps" alt=""/>
     </file>
     <file name="grande.jpg" crc="3977296476" ref="index">
       <caption webpage="index" alt=""/>
@@ -164,7 +164,7 @@
     </file>
   </folder>
   <file name="index.html" crc="257112472" seo="true" mt="1591796344921" redirect="true"/>
-  <file name="work.html" crc="377634799" seo="true" mt="1591796344921" redirect="true"/>
-  <file name="gent.html" crc="36003877" seo="true" mt="1591796344921" redirect="true"/>
-  <file name="soy-nueps.html" crc="436546279" seo="true" mt="1591796344922" redirect="true"/>
+  <file name="work.html" crc="92474919" seo="true" mt="1591797883438" redirect="true"/>
+  <file name="gent.html" crc="4097490312" seo="true" mt="1591797914448" redirect="true"/>
+  <file name="soy-nueps.html" crc="282331594" seo="true" mt="1591797943137" redirect="true"/>
 </manifest>
