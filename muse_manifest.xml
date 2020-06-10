@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nueps.com" resolutions="1x" timestamp="1591797962151">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nueps.com" resolutions="1x" timestamp="1591798570142">
   <folder name="css">
     <file name="site_global.css" crc="3978878145"/>
     <file name="master_a-p_g_-maestra.css" crc="374083346" ref="gent:index:work:soy-nueps"/>
@@ -164,7 +164,7 @@
     </file>
   </folder>
   <file name="index.html" crc="257112472" seo="true" mt="1591796344921" redirect="true"/>
-  <file name="work.html" crc="92474919" seo="true" mt="1591797883438" redirect="true"/>
+  <file name="work.html" crc="3861101799" seo="true" mt="1591798515350" redirect="true"/>
   <file name="gent.html" crc="4097490312" seo="true" mt="1591797914448" redirect="true"/>
   <file name="soy-nueps.html" crc="282331594" seo="true" mt="1591797943137" redirect="true"/>
 </manifest>
