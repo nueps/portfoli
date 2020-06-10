@@ -2,47 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://nueps.com/index.html</loc>
-    <lastmod>2020-04-12</lastmod>
+    <lastmod>2020-06-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://nueps.com/images/instagram%20(1).png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nueps.com/images/behance-logo.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://nueps.com/images/vimeo-logo.png</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://nueps.com/3d.html</loc>
-    <lastmod>2020-04-12</lastmod>
+    <loc>http://nueps.com/work.html</loc>
+    <lastmod>2020-06-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://nueps.com/images/instagram%20(1).png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nueps.com/images/behance-logo.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://nueps.com/images/vimeo-logo.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nueps.com/images/e0288.jpg</image:loc>
+      <image:loc>http://nueps.com/images/mokeap%20vinilo%20junto.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nueps.com/images/e0495.jpg</image:loc>
+      <image:loc>http://nueps.com/images/mokeap%20cd%20juntos.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nueps.com/images/e0702.jpg</image:loc>
+      <image:loc>http://nueps.com/images/img_0756.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nueps.com/images/e0909.jpg</image:loc>
+      <image:loc>http://nueps.com/images/_mg_6027.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nueps.com/images/e1323.jpg</image:loc>
+      <image:loc>http://nueps.com/images/_mg_6014.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://nueps.com/images/cartel.jpg</image:loc>
@@ -50,29 +44,53 @@
     <image:image>
       <image:loc>http://nueps.com/images/definitivo-png-16.jpg</image:loc>
     </image:image>
-    <image:image>
-      <image:loc>http://nueps.com/images/bpr_render%202ssssssssssssssssss-crop-u9246.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nueps.com/images/bpr_render2sssssssssssssssssss-crop-u9248.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nueps.com/images/eii.png</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://nueps.com/gent.html</loc>
-    <lastmod>2020-04-12</lastmod>
+    <lastmod>2020-06-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://nueps.com/images/instagram%20(1).png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nueps.com/images/behance-logo.png</image:loc>
+      <image:loc>http://nueps.com/images/vimeo-logo.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nueps.com/images/vimeo-logo.png</image:loc>
+      <image:loc>http://nueps.com/images/photo_2020-04-02_23-41-40.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nueps.com/images/photo_2020-04-02_23-41-41.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nueps.com/images/photo_2020-04-02_23-41-43.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nueps.com/images/img_2757.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nueps.com/images/asesinato%20(1).jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nueps.com/images/asesinato%20(2).jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nueps.com/images/asesinato%20(3).jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nueps.com/images/asesinato%20(4).jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nueps.com/images/asesinato%20(5).jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nueps.com/images/asesinato%20(6).jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nueps.com/images/asesinato%20(7).jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nueps.com/images/asesinato%20(8).jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://nueps.com/images/la%20droga%20m%C3%A1s%20adictiva%20de%20la%20historia_%20noelia%20puig%20sapena_p%C3%A1gina_1.jpg</image:loc>
@@ -101,137 +119,14 @@
     <image:image>
       <image:loc>http://nueps.com/images/la%20droga%20m%C3%A1s%20adictiva%20de%20la%20historia_%20noelia%20puig%20sapena_p%C3%A1gina_9.jpg</image:loc>
     </image:image>
-    <image:image>
-      <image:loc>http://nueps.com/images/photo_2020-04-02_23-41-40.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nueps.com/images/photo_2020-04-02_23-41-41.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nueps.com/images/photo_2020-04-02_23-41-43.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nueps.com/images/img_2757.png</image:loc>
-    </image:image>
   </url>
   <url>
-    <loc>http://nueps.com/disseny-gr%C3%A0fic.html</loc>
-    <lastmod>2020-04-12</lastmod>
+    <loc>http://nueps.com/soy-nueps.html</loc>
+    <lastmod>2020-06-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://nueps.com/images/instagram%20(1).png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nueps.com/images/behance-logo.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nueps.com/images/vimeo-logo.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nueps.com/images/pakaging%20final_mesa%20de%20trabajo%201.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nueps.com/images/pakaging%20final-02.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nueps.com/images/pakaging%20final-03.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nueps.com/images/pakaging%20final-04.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nueps.com/images/pakaging%20final-05.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nueps.com/images/pakaging%20final-06.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nueps.com/images/icono%20restaurante-03.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nueps.com/images/targeta%20por%20delante_mesa%20de%20trabajo%201.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nueps.com/images/targeta%20por%20e-02.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nueps.com/images/noelia%20puig%20sapena%20-%20plantilla.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nueps.com/images/noelia%20puig%20sapena%20-%20aplicaci%C3%B3n_p%C3%A1gina_01.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nueps.com/images/noelia%20puig%20sapena%20-%20aplicaci%C3%B3n_p%C3%A1gina_02.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nueps.com/images/noelia%20puig%20sapena%20-%20aplicaci%C3%B3n_p%C3%A1gina_03.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nueps.com/images/noelia%20puig%20sapena%20-%20aplicaci%C3%B3n_p%C3%A1gina_04.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nueps.com/images/noelia%20puig%20sapena%20-%20aplicaci%C3%B3n_p%C3%A1gina_05.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nueps.com/images/noelia%20puig%20sapena%20-%20aplicaci%C3%B3n_p%C3%A1gina_06.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nueps.com/images/noelia%20puig%20sapena%20-%20aplicaci%C3%B3n_p%C3%A1gina_07.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nueps.com/images/noelia%20puig%20sapena%20-%20aplicaci%C3%B3n_p%C3%A1gina_08.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nueps.com/images/noelia%20puig%20sapena%20-%20aplicaci%C3%B3n_p%C3%A1gina_11.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nueps.com/images/noelia%20puig%20sapena%20-%20aplicaci%C3%B3n_p%C3%A1gina_18.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nueps.com/images/noelia%20puig%20sapena%20-%20aplicaci%C3%B3n_p%C3%A1gina_22.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nueps.com/images/noelia%20puig%20sapena%20-%20aplicaci%C3%B3n_p%C3%A1gina_30.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nueps.com/images/noelia%20puig%20sapena%20-%20aplicaci%C3%B3n_p%C3%A1gina_31.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nueps.com/images/noelia%20puig%20sapena%20-%20aplicaci%C3%B3n_p%C3%A1gina_32.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nueps.com/images/noelia%20puig%20sapena%20-%20aplicaci%C3%B3n_p%C3%A1gina_33.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nueps.com/images/esta%20esss-11.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nueps.com/images/crtel%208.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nueps.com/images/contraportada%20final.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nueps.com/images/caratula1%20final.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nueps.com/images/camel.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nueps.com/images/ssss.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://nueps.com/soc-nueps.html</loc>
-    <lastmod>2020-04-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://nueps.com/images/instagram%20(1).png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nueps.com/images/behance-logo.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://nueps.com/images/vimeo-logo.png</image:loc>

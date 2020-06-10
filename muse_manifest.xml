@@ -1,209 +1,139 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nueps.com" resolutions="1x" timestamp="1586701657441">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nueps.com" resolutions="1x" timestamp="1591796350025">
   <folder name="css">
     <file name="site_global.css" crc="3978878145"/>
-    <file name="master_a-p_g_-maestra.css" crc="3995908443" ref="gent:3d:index:disseny-gràfic:soc-nueps"/>
-    <file name="gent.css" crc="4047949864" ref="gent"/>
-    <file name="3d.css" crc="4011442850" ref="3d"/>
-    <file name="index.css" crc="3810182230" ref="index"/>
-    <file name="disseny-gr_fic.css" crc="4286539277" ref="disseny-gràfic"/>
-    <file name="soc-nueps.css" crc="137467916" ref="soc-nueps"/>
+    <file name="master_a-p_g_-maestra.css" crc="374083346" ref="gent:index:work:soy-nueps"/>
+    <file name="gent.css" crc="4292512158" ref="gent"/>
+    <file name="index.css" crc="122559639" ref="index"/>
+    <file name="work.css" crc="3987905314" ref="work"/>
+    <file name="soy-nueps.css" crc="379962756" ref="soy-nueps"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:3d:gent:disseny-gràfic:soc-nueps"/>
-    <file name="museutils.js" crc="3803043152" ref="index:3d:gent:disseny-gràfic:soc-nueps"/>
-    <file name="whatinput.js" crc="86476730" ref="index:3d:gent:disseny-gràfic:soc-nueps"/>
-    <file name="museconfig.js" crc="4153641093" ref="index:3d:gent:disseny-gràfic:soc-nueps"/>
-    <file name="webpro.js" crc="242022427" ref="3d:gent:disseny-gràfic"/>
-    <file name="musewpslideshow.js" crc="457073769" ref="3d:gent:disseny-gràfic"/>
-    <file name="jquery.museoverlay.js" crc="483674903" ref="3d:gent:disseny-gràfic"/>
-    <file name="touchswipe.js" crc="4066113679" ref="3d:gent:disseny-gràfic"/>
-    <file name="jquery.musemenu.js" crc="3784699396" ref="index:3d:gent:disseny-gràfic:soc-nueps"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="gent:index"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index:3d:gent:disseny-gràfic:soc-nueps"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:3d:gent:disseny-gràfic:soc-nueps"/>
-    <file name="require.js" crc="4157109226" ref="index:3d:gent:disseny-gràfic:soc-nueps"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:work:gent:soy-nueps"/>
+    <file name="museutils.js" crc="3803043152" ref="index:work:gent:soy-nueps"/>
+    <file name="whatinput.js" crc="86476730" ref="index:work:gent:soy-nueps"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:work:gent:soy-nueps"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:work:gent:soy-nueps"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:gent"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:work:gent:soy-nueps"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:work:gent:soy-nueps"/>
+    <file name="require.js" crc="4157109226" ref="index:work:gent:soy-nueps"/>
+    <file name="webpro.js" crc="242022427" ref="work:gent"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="work:gent"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="work:gent"/>
+    <file name="touchswipe.js" crc="4066113679" ref="work:gent"/>
   </folder>
   <folder name="images">
+    <file name="lkjhgfdkty.jpg" crc="4159470566" ref="index"/>
+    <file name="instagram (1).png" crc="286663639" seo="true" ref="index:work:gent:soy-nueps">
+      <caption webpage="index" alt=""/>
+      <caption webpage="soc-nueps" alt=""/>
+      <caption webpage="work" alt=""/>
+      <caption webpage="gent" alt=""/>
+      <caption webpage="soy-nueps" alt=""/>
+    </file>
+    <file name="vimeo-logo.png" crc="4164263316" seo="true" ref="index:work:gent:soy-nueps">
+      <caption webpage="index" alt=""/>
+      <caption webpage="soc-nueps" alt=""/>
+      <caption webpage="work" alt=""/>
+      <caption webpage="gent" alt=""/>
+      <caption webpage="soy-nueps" alt=""/>
+    </file>
     <file name="grande.jpg" crc="3977296476" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="portfoli" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="3d:gent:disseny-gràfic"/>
-    <file name="loading.gif" crc="3815509949" ref="3d:gent:disseny-gràfic"/>
-    <file name="lkjhgfdkty.jpg" crc="4159470566" ref="index"/>
-    <file name="instagram (1).png" crc="286663639" seo="true" ref="index:3d:gent:disseny-gràfic:soc-nueps">
-      <caption webpage="portfoli" alt=""/>
-      <caption webpage="diseny-gràfic" alt=""/>
-      <caption webpage="disseny-gràfic" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="3d" alt=""/>
-      <caption webpage="gent" alt=""/>
+    <file name="aaaaaaaaa.png" crc="4242891482" seo="true" ref="soy-nueps">
       <caption webpage="soc-nueps" alt=""/>
+      <caption webpage="soy-nueps" alt=""/>
     </file>
-    <file name="behance-logo.png" crc="4068296395" seo="true" ref="index:3d:gent:disseny-gràfic:soc-nueps">
-      <caption webpage="portfoli" alt=""/>
-      <caption webpage="diseny-gràfic" alt=""/>
-      <caption webpage="disseny-gràfic" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="3d" alt=""/>
+    <file name="mokeap vinilo junto.jpg" crc="240413703" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="work:gent"/>
+    <file name="mokeap cd juntos.jpg" crc="4274453965" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="work:gent"/>
+    <file name="img_0756.jpg" crc="51809976" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="_mg_6027.jpg" crc="196739241" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="_mg_6014.jpg" crc="3781899670" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="cartel.jpg" crc="4179205679" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="definitivo-png-16.jpg" crc="3871284069" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="photo_2020-04-02_23-41-40.jpg" crc="3988147209" seo="true" ref="gent">
       <caption webpage="gent" alt=""/>
-      <caption webpage="soc-nueps" alt=""/>
     </file>
-    <file name="vimeo-logo.png" crc="4164263316" seo="true" ref="index:3d:gent:disseny-gràfic:soc-nueps">
-      <caption webpage="portfoli" alt=""/>
-      <caption webpage="diseny-gràfic" alt=""/>
-      <caption webpage="disseny-gràfic" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="3d" alt=""/>
+    <file name="img_0348.jpg" crc="136291668" ref="gent">
       <caption webpage="gent" alt=""/>
-      <caption webpage="soc-nueps" alt=""/>
     </file>
-    <file name="pakaging final_mesa de trabajo 1.png" crc="4007402539" seo="true" ref="disseny-gràfic">
-      <caption webpage="diseny-gràfic" alt=""/>
-      <caption webpage="disseny-gràfic" alt=""/>
+    <file name="img_1296.jpg" crc="4157211807" ref="gent">
+      <caption webpage="gent" alt=""/>
     </file>
-    <file name="pakaging final-02.png" crc="103574124" seo="true" ref="disseny-gràfic">
-      <caption webpage="diseny-gràfic" alt=""/>
-      <caption webpage="disseny-gràfic" alt=""/>
+    <file name="img_2763.png" crc="419900611" ref="gent">
+      <caption webpage="gent" alt=""/>
     </file>
-    <file name="pakaging final-03.png" crc="3847577764" seo="true" ref="disseny-gràfic">
-      <caption webpage="diseny-gràfic" alt=""/>
-      <caption webpage="disseny-gràfic" alt=""/>
+    <file name="xxxxxxxx.png" crc="34348447" ref="gent">
+      <caption webpage="gent" alt=""/>
     </file>
-    <file name="pakaging final-04.png" crc="3946012716" seo="true" ref="disseny-gràfic">
-      <caption webpage="diseny-gràfic" alt=""/>
-      <caption webpage="disseny-gràfic" alt=""/>
+    <file name="photo_2020-04-02_23-41-41.jpg" crc="528357614" seo="true" ref="gent">
+      <caption webpage="gent" alt=""/>
     </file>
-    <file name="pakaging final-05.png" crc="4288639673" seo="true" ref="disseny-gràfic">
-      <caption webpage="diseny-gràfic" alt=""/>
-      <caption webpage="disseny-gràfic" alt=""/>
+    <file name="img_0385.jpg" crc="4046099654" ref="gent">
+      <caption webpage="gent" alt=""/>
     </file>
-    <file name="pakaging final-06.png" crc="4053581641" seo="true" ref="disseny-gràfic">
-      <caption webpage="diseny-gràfic" alt=""/>
-      <caption webpage="disseny-gràfic" alt=""/>
+    <file name="img_2746.png" crc="224974469" ref="gent">
+      <caption webpage="gent" alt=""/>
     </file>
-    <file name="icono restaurante-03.png" crc="4076414615" seo="true" ref="disseny-gràfic">
-      <caption webpage="diseny-gràfic" alt=""/>
-      <caption webpage="disseny-gràfic" alt=""/>
+    <file name="hjfthjt.png" crc="3814847618" ref="gent">
+      <caption webpage="gent" alt=""/>
     </file>
-    <file name="targeta por delante_mesa de trabajo 1.png" crc="105323533" seo="true" ref="disseny-gràfic">
-      <caption webpage="diseny-gràfic" alt=""/>
-      <caption webpage="disseny-gràfic" alt=""/>
+    <file name="lkjhgfdkty-u8365-fr.jpg" crc="3805827576" ref="gent"/>
+    <file name="photo_2020-04-02_23-41-43.jpg" crc="3969533613" seo="true" ref="gent">
+      <caption webpage="gent" alt=""/>
     </file>
-    <file name="targeta por e-02.png" crc="137236060" seo="true" ref="disseny-gràfic">
-      <caption webpage="diseny-gràfic" alt=""/>
-      <caption webpage="disseny-gràfic" alt=""/>
+    <file name="img_0746.jpg" crc="273388734" ref="gent">
+      <caption webpage="gent" alt=""/>
     </file>
-    <file name="noelia puig sapena - plantilla.jpg" crc="315742937" seo="true" ref="disseny-gràfic">
-      <caption webpage="diseny-gràfic" alt=""/>
-      <caption webpage="disseny-gràfic" alt=""/>
+    <file name="img_2757.png" crc="4037691303" seo="true" ref="gent">
+      <caption webpage="gent" alt=""/>
     </file>
-    <file name="noelia puig sapena - aplicación_página_01.jpg" crc="150333284" seo="true" ref="disseny-gràfic">
-      <caption webpage="diseny-gràfic" alt=""/>
-      <caption webpage="disseny-gràfic" alt=""/>
+    <file name="jkhgfds.png" crc="4014498956" ref="gent">
+      <caption webpage="gent" alt=""/>
     </file>
-    <file name="noelia puig sapena - aplicación_página_02.jpg" crc="395478141" seo="true" ref="disseny-gràfic">
-      <caption webpage="diseny-gràfic" alt=""/>
-      <caption webpage="disseny-gràfic" alt=""/>
+    <file name="captura.png" crc="4111484305" ref="gent">
+      <caption webpage="gent" alt=""/>
     </file>
-    <file name="noelia puig sapena - aplicación_página_03.jpg" crc="210764011" seo="true" ref="disseny-gràfic">
-      <caption webpage="diseny-gràfic" alt=""/>
-      <caption webpage="disseny-gràfic" alt=""/>
+    <file name="asesinato (1).jpg" crc="4031940040" seo="true" ref="gent">
+      <caption webpage="gent" alt=""/>
     </file>
-    <file name="noelia puig sapena - aplicación_página_04.jpg" crc="163011011" seo="true" ref="disseny-gràfic">
-      <caption webpage="diseny-gràfic" alt=""/>
-      <caption webpage="disseny-gràfic" alt=""/>
+    <file name="asesinato (2).jpg" crc="238520968" seo="true" ref="gent">
+      <caption webpage="gent" alt=""/>
     </file>
-    <file name="noelia puig sapena - aplicación_página_05.jpg" crc="4228760393" seo="true" ref="disseny-gràfic">
-      <caption webpage="diseny-gràfic" alt=""/>
-      <caption webpage="disseny-gràfic" alt=""/>
+    <file name="asesinato (3).jpg" crc="268837809" seo="true" ref="gent">
+      <caption webpage="gent" alt=""/>
     </file>
-    <file name="noelia puig sapena - aplicación_página_06.jpg" crc="229786603" seo="true" ref="disseny-gràfic">
-      <caption webpage="diseny-gràfic" alt=""/>
-      <caption webpage="disseny-gràfic" alt=""/>
+    <file name="asesinato (4).jpg" crc="489702241" seo="true" ref="gent">
+      <caption webpage="gent" alt=""/>
     </file>
-    <file name="noelia puig sapena - aplicación_página_07.jpg" crc="3842472124" seo="true" ref="disseny-gràfic">
-      <caption webpage="diseny-gràfic" alt=""/>
-      <caption webpage="disseny-gràfic" alt=""/>
+    <file name="asesinato (5).jpg" crc="159497239" seo="true" ref="gent">
+      <caption webpage="gent" alt=""/>
     </file>
-    <file name="noelia puig sapena - aplicación_página_08.jpg" crc="432875221" seo="true" ref="disseny-gràfic">
-      <caption webpage="diseny-gràfic" alt=""/>
-      <caption webpage="disseny-gràfic" alt=""/>
+    <file name="asesinato (6).jpg" crc="220831614" seo="true" ref="gent">
+      <caption webpage="gent" alt=""/>
     </file>
-    <file name="noelia puig sapena - aplicación_página_11.jpg" crc="4244563704" seo="true" ref="disseny-gràfic">
-      <caption webpage="diseny-gràfic" alt=""/>
-      <caption webpage="disseny-gràfic" alt=""/>
+    <file name="asesinato (7).jpg" crc="4113299685" seo="true" ref="gent">
+      <caption webpage="gent" alt=""/>
     </file>
-    <file name="noelia puig sapena - aplicación_página_18.jpg" crc="3903754080" seo="true" ref="disseny-gràfic">
-      <caption webpage="diseny-gràfic" alt=""/>
-      <caption webpage="disseny-gràfic" alt=""/>
-    </file>
-    <file name="noelia puig sapena - aplicación_página_22.jpg" crc="4186536804" seo="true" ref="disseny-gràfic">
-      <caption webpage="diseny-gràfic" alt=""/>
-      <caption webpage="disseny-gràfic" alt=""/>
-    </file>
-    <file name="noelia puig sapena - aplicación_página_30.jpg" crc="483347125" seo="true" ref="disseny-gràfic">
-      <caption webpage="diseny-gràfic" alt=""/>
-      <caption webpage="disseny-gràfic" alt=""/>
-    </file>
-    <file name="noelia puig sapena - aplicación_página_31.jpg" crc="3765285590" seo="true" ref="disseny-gràfic">
-      <caption webpage="diseny-gràfic" alt=""/>
-      <caption webpage="disseny-gràfic" alt=""/>
-    </file>
-    <file name="noelia puig sapena - aplicación_página_32.jpg" crc="4013889624" seo="true" ref="disseny-gràfic">
-      <caption webpage="diseny-gràfic" alt=""/>
-      <caption webpage="disseny-gràfic" alt=""/>
-    </file>
-    <file name="noelia puig sapena - aplicación_página_33.jpg" crc="140151937" seo="true" ref="disseny-gràfic">
-      <caption webpage="diseny-gràfic" alt=""/>
-      <caption webpage="disseny-gràfic" alt=""/>
-    </file>
-    <file name="esta esss-11.png" crc="4114642509" seo="true" ref="disseny-gràfic">
-      <caption webpage="diseny-gràfic" alt=""/>
-      <caption webpage="disseny-gràfic" alt=""/>
-    </file>
-    <file name="crtel 8.jpg" crc="202749238" seo="true" ref="disseny-gràfic">
-      <caption webpage="diseny-gràfic" alt=""/>
-      <caption webpage="disseny-gràfic" alt=""/>
-    </file>
-    <file name="contraportada final.jpg" crc="518033882" seo="true" ref="disseny-gràfic">
-      <caption webpage="diseny-gràfic" alt=""/>
-      <caption webpage="disseny-gràfic" alt=""/>
-    </file>
-    <file name="caratula1 final.jpg" crc="3859483731" seo="true" ref="disseny-gràfic">
-      <caption webpage="diseny-gràfic" alt=""/>
-      <caption webpage="disseny-gràfic" alt=""/>
-    </file>
-    <file name="camel.png" crc="3821337510" seo="true" ref="disseny-gràfic">
-      <caption webpage="diseny-gràfic" alt=""/>
-      <caption webpage="disseny-gràfic" alt=""/>
-    </file>
-    <file name="e0288.jpg" crc="463409305" seo="true" ref="3d">
-      <caption webpage="3d" alt=""/>
-    </file>
-    <file name="e0495.jpg" crc="3875903121" seo="true" ref="3d">
-      <caption webpage="3d" alt=""/>
-    </file>
-    <file name="e0702.jpg" crc="452823020" seo="true" ref="3d">
-      <caption webpage="3d" alt=""/>
-    </file>
-    <file name="e0909.jpg" crc="4275557493" seo="true" ref="3d">
-      <caption webpage="3d" alt=""/>
-    </file>
-    <file name="e1323.jpg" crc="3766032972" seo="true" ref="3d">
-      <caption webpage="3d" alt=""/>
-    </file>
-    <file name="cartel.jpg" crc="4179205679" seo="true" ref="3d">
-      <caption webpage="3d" alt=""/>
-    </file>
-    <file name="definitivo-png-16.jpg" crc="4104868822" seo="true" ref="3d">
-      <caption webpage="3d" alt=""/>
-    </file>
-    <file name="bpr_render 2ssssssssssssssssss-crop-u9246.jpg" crc="4137352145" seo="true" ref="3d">
-      <caption webpage="3d" alt=""/>
-    </file>
-    <file name="bpr_render2sssssssssssssssssss-crop-u9248.jpg" crc="476875691" seo="true" ref="3d">
-      <caption webpage="3d" alt=""/>
+    <file name="asesinato (8).jpg" crc="160572335" seo="true" ref="gent">
+      <caption webpage="gent" alt=""/>
     </file>
     <file name="la droga más adictiva de la historia_ noelia puig sapena_página_1.jpg" crc="3879654494" seo="true" ref="gent">
       <caption webpage="gent" alt=""/>
@@ -232,63 +162,9 @@
     <file name="la droga más adictiva de la historia_ noelia puig sapena_página_9.jpg" crc="3808029791" seo="true" ref="gent">
       <caption webpage="gent" alt=""/>
     </file>
-    <file name="photo_2020-04-02_23-41-40.jpg" crc="3988147209" seo="true" ref="gent">
-      <caption webpage="gent" alt=""/>
-    </file>
-    <file name="photo_2020-04-02_23-41-41.jpg" crc="528357614" seo="true" ref="gent">
-      <caption webpage="gent" alt=""/>
-    </file>
-    <file name="photo_2020-04-02_23-41-43.jpg" crc="3969533613" seo="true" ref="gent">
-      <caption webpage="gent" alt=""/>
-    </file>
-    <file name="img_0348.jpg" crc="136291668" ref="gent">
-      <caption webpage="gent" alt=""/>
-    </file>
-    <file name="img_0385.jpg" crc="4046099654" ref="gent">
-      <caption webpage="gent" alt=""/>
-    </file>
-    <file name="img_0746.jpg" crc="273388734" ref="gent">
-      <caption webpage="gent" alt=""/>
-    </file>
-    <file name="img_1296.jpg" crc="4157211807" ref="gent">
-      <caption webpage="gent" alt=""/>
-    </file>
-    <file name="ssss.png" crc="353329285" seo="true" ref="disseny-gràfic">
-      <caption webpage="diseny-gràfic" alt=""/>
-      <caption webpage="disseny-gràfic" alt=""/>
-    </file>
-    <file name="eii.png" crc="7466225" seo="true" ref="3d">
-      <caption webpage="3d" alt=""/>
-    </file>
-    <file name="img_2746.png" crc="224974469" ref="gent">
-      <caption webpage="gent" alt=""/>
-    </file>
-    <file name="img_2757.png" crc="4037691303" seo="true" ref="gent">
-      <caption webpage="gent" alt=""/>
-    </file>
-    <file name="img_2763.png" crc="419900611" ref="gent">
-      <caption webpage="gent" alt=""/>
-    </file>
-    <file name="hjfthjt.png" crc="3814847618" ref="gent">
-      <caption webpage="gent" alt=""/>
-    </file>
-    <file name="jkhgfds.png" crc="4014498956" ref="gent">
-      <caption webpage="gent" alt=""/>
-    </file>
-    <file name="xxxxxxxx.png" crc="34348447" ref="gent">
-      <caption webpage="gent" alt=""/>
-    </file>
-    <file name="lkjhgfdkty-u8365-fr.jpg" crc="3805827576" ref="gent"/>
-    <file name="captura.png" crc="4111484305" ref="gent">
-      <caption webpage="gent" alt=""/>
-    </file>
-    <file name="aaaaaaaaa.png" crc="4242891482" seo="true" ref="soc-nueps">
-      <caption webpage="soc-nueps" alt=""/>
-    </file>
   </folder>
-  <file name="index.html" crc="4204062872" seo="true" mt="1586701231175" redirect="true"/>
-  <file name="3d.html" crc="3857325261" seo="true" mt="1586700528365" redirect="true"/>
-  <file name="gent.html" crc="4127783881" seo="true" mt="1586700528365" redirect="true"/>
-  <file name="disseny-gràfic.html" crc="22764896" seo="true" mt="1586700528365" redirect="true"/>
-  <file name="soc-nueps.html" crc="316290731" seo="true" mt="1586701649813" redirect="true"/>
+  <file name="index.html" crc="257112472" seo="true" mt="1591796344921" redirect="true"/>
+  <file name="work.html" crc="377634799" seo="true" mt="1591796344921" redirect="true"/>
+  <file name="gent.html" crc="36003877" seo="true" mt="1591796344921" redirect="true"/>
+  <file name="soy-nueps.html" crc="436546279" seo="true" mt="1591796344922" redirect="true"/>
 </manifest>
