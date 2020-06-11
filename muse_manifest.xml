@@ -1,11 +1,11 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nueps.com" resolutions="1x" timestamp="1591798570142">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nueps.com" resolutions="1x" timestamp="1591875318566">
   <folder name="css">
     <file name="site_global.css" crc="3978878145"/>
-    <file name="master_a-p_g_-maestra.css" crc="374083346" ref="gent:index:work:soy-nueps"/>
-    <file name="gent.css" crc="3903663684" ref="gent"/>
+    <file name="master_a-p_g_-maestra.css" crc="236283864" ref="gent:index:work:soy-nueps"/>
+    <file name="gent.css" crc="50225393" ref="gent"/>
     <file name="index.css" crc="122559639" ref="index"/>
-    <file name="work.css" crc="507171971" ref="work"/>
-    <file name="soy-nueps.css" crc="379225935" ref="soy-nueps"/>
+    <file name="work.css" crc="3764416743" ref="work"/>
+    <file name="soy-nueps.css" crc="3987276005" ref="soy-nueps"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:work:gent:soy-nueps"/>
@@ -26,17 +26,17 @@
     <file name="lkjhgfdkty.jpg" crc="4159470566" ref="index"/>
     <file name="instagram (1).png" crc="286663639" seo="true" ref="index:work:gent:soy-nueps">
       <caption webpage="index" alt=""/>
-      <caption webpage="soc-nueps" alt=""/>
-      <caption webpage="soy-nueps" alt=""/>
       <caption webpage="work" alt=""/>
       <caption webpage="gent" alt=""/>
+      <caption webpage="soc-nueps" alt=""/>
+      <caption webpage="soy-nueps" alt=""/>
     </file>
     <file name="vimeo-logo.png" crc="4164263316" seo="true" ref="index:work:gent:soy-nueps">
       <caption webpage="index" alt=""/>
-      <caption webpage="soc-nueps" alt=""/>
-      <caption webpage="soy-nueps" alt=""/>
       <caption webpage="work" alt=""/>
       <caption webpage="gent" alt=""/>
+      <caption webpage="soc-nueps" alt=""/>
+      <caption webpage="soy-nueps" alt=""/>
     </file>
     <file name="grande.jpg" crc="3977296476" ref="index">
       <caption webpage="index" alt=""/>
@@ -95,7 +95,7 @@
     <file name="hjfthjt.png" crc="3814847618" ref="gent">
       <caption webpage="gent" alt=""/>
     </file>
-    <file name="lkjhgfdkty-u8365-fr.jpg" crc="3805827576" ref="gent"/>
+    <file name="lkjhgfdkty-u8365-fr.jpg" crc="330332975" ref="gent"/>
     <file name="photo_2020-04-02_23-41-43.jpg" crc="3969533613" seo="true" ref="gent">
       <caption webpage="gent" alt=""/>
     </file>
@@ -162,9 +162,27 @@
     <file name="la droga más adictiva de la historia_ noelia puig sapena_página_9.jpg" crc="3808029791" seo="true" ref="gent">
       <caption webpage="gent" alt=""/>
     </file>
+    <file name="img_3481a.jpg" crc="4177548223" seo="true" ref="gent">
+      <caption webpage="gent" alt=""/>
+    </file>
+    <file name="img_3550a.jpg" crc="378214867" seo="true" ref="gent">
+      <caption webpage="gent" alt=""/>
+    </file>
+    <file name="img_3561aaaa.jpg" crc="531135064" seo="true" ref="gent">
+      <caption webpage="gent" alt=""/>
+    </file>
+    <file name="img_3717a.jpg" crc="3912075781" seo="true" ref="gent">
+      <caption webpage="gent" alt=""/>
+    </file>
+    <file name="img_3722a.jpg" crc="353123859" seo="true" ref="gent">
+      <caption webpage="gent" alt=""/>
+    </file>
+    <file name="img_3784aaaa-crop-u23943.jpg" crc="3868749257" seo="true" ref="gent">
+      <caption webpage="gent" alt=""/>
+    </file>
   </folder>
   <file name="index.html" crc="257112472" seo="true" mt="1591796344921" redirect="true"/>
-  <file name="work.html" crc="3861101799" seo="true" mt="1591798515350" redirect="true"/>
-  <file name="gent.html" crc="4097490312" seo="true" mt="1591797914448" redirect="true"/>
-  <file name="soy-nueps.html" crc="282331594" seo="true" mt="1591797943137" redirect="true"/>
+  <file name="work.html" crc="4032422652" seo="true" mt="1591875288145" redirect="true"/>
+  <file name="gent.html" crc="28808686" seo="true" mt="1591868311083" redirect="true"/>
+  <file name="soy-nueps.html" crc="4007658523" seo="true" mt="1591867378143" redirect="true"/>
 </manifest>
