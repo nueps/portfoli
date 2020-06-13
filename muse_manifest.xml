@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nueps.com" resolutions="1x" timestamp="1592052572509">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nueps.com" resolutions="1x" timestamp="1592053013458">
   <folder name="css">
     <file name="site_global.css" crc="3978878145"/>
     <file name="master_a-p_g_-maestra.css" crc="3821890060" ref="gent:index:work:soy-nueps"/>
     <file name="gent.css" crc="4125850104" ref="gent"/>
     <file name="index.css" crc="122559639" ref="index"/>
-    <file name="work.css" crc="3844515176" ref="work"/>
+    <file name="work.css" crc="4085199683" ref="work"/>
     <file name="soy-nueps.css" crc="3987276005" ref="soy-nueps"/>
   </folder>
   <folder name="scripts">
@@ -26,17 +26,17 @@
     <file name="lkjhgfdkty.jpg" crc="4159470566" ref="index"/>
     <file name="instagram (1).png" crc="286663639" seo="true" ref="index:work:gent:soy-nueps">
       <caption webpage="index" alt=""/>
-      <caption webpage="gent" alt=""/>
-      <caption webpage="soc-nueps" alt=""/>
       <caption webpage="work" alt=""/>
       <caption webpage="soy-nueps" alt=""/>
+      <caption webpage="gent" alt=""/>
+      <caption webpage="soc-nueps" alt=""/>
     </file>
     <file name="vimeo-logo.png" crc="4164263316" seo="true" ref="index:work:gent:soy-nueps">
       <caption webpage="index" alt=""/>
-      <caption webpage="gent" alt=""/>
-      <caption webpage="soc-nueps" alt=""/>
       <caption webpage="work" alt=""/>
       <caption webpage="soy-nueps" alt=""/>
+      <caption webpage="gent" alt=""/>
+      <caption webpage="soc-nueps" alt=""/>
     </file>
     <file name="grande.jpg" crc="3977296476" ref="index">
       <caption webpage="index" alt=""/>
@@ -53,10 +53,10 @@
       <caption webpage="work" alt=""/>
     </file>
     <file name="loading.gif" crc="3815509949" ref="work:gent"/>
-    <file name="_mg_6027.jpg" crc="3811812706" seo="true" ref="work">
+    <file name="_mg_6027.jpg" crc="4285494696" seo="true" ref="work">
       <caption webpage="work" alt=""/>
     </file>
-    <file name="_mg_6014.jpg" crc="126848789" seo="true" ref="work">
+    <file name="_mg_6014.jpg" crc="131728363" seo="true" ref="work">
       <caption webpage="work" alt=""/>
     </file>
     <file name="cartel.jpg" crc="4179205679" seo="true" ref="work">
@@ -179,7 +179,7 @@
     </file>
   </folder>
   <file name="index.html" crc="257112472" seo="true" mt="1591796344921" redirect="true"/>
-  <file name="work.html" crc="252365506" seo="true" mt="1592052235531" redirect="true"/>
+  <file name="work.html" crc="507070292" seo="true" mt="1592053006897" redirect="true"/>
   <file name="gent.html" crc="161047807" seo="true" mt="1592052540964" redirect="true"/>
   <file name="soy-nueps.html" crc="4007658523" seo="true" mt="1591867378143" redirect="true"/>
 </manifest>
